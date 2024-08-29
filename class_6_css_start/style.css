@@ -1,0 +1,31 @@
+/* there are 3 type of css */
+/*  1 inline wo css jo html ma style ka atributes sa define ho wo inline css ha */
+/* internal bolti ha head ma ja ker style ka tag lagao   */
+/* external  style ki file banao style.css */
+
+h1{
+    color: wheat;
+    background-color: rgba(0,0, 255,0.3);
+    /* background-color:#798ba8;    */
+    /* (cmyk , hsll ,hax code, rbg) sa bhi color diya gata han
+    #000 hax code new tab search color piker   */
+
+    /* HSL KI FULL form HSL stands for hue, saturation, and lightness. */
+
+  /* opacity: 0.4; */
+/* opacity: 0 ,1; */
+/* there are two types of opacity 0 and 1  */
+
+/* opacity:  ko hm rgb ma a means alpha sa denote sa karta ha iska syntax ya ha  background-color: rgba(0,0, 255,0.3);; */
+}
+
+/* colors  */
+/* color hm 4 tarha sa da sakata ha ik hm color sa 2 rgb 3 hsl 4 hax code 5 color piker 6 Hsl 7 cmyk  */
+
+a{
+    color: rgb(232, 112, 112);
+    text-decoration: none;
+}
+
+/* RGB red green blue 
+        minimum 0 maximum 255  */

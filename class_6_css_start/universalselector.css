@@ -1,0 +1,71 @@
+/* universal selector  */
+/* *h1{
+   color: goldenrod; 
+   font-family: sans-serif;
+   background-color: brown;
+} */
+
+/* type selector */
+/* h1,a {
+    color:rgb(148, 7, 42);
+} */
+/* , coma  denoted by type selector */
+
+/* Class Selector ID Selector  */
+/* id */
+
+/* #abc,#abc1{
+    background-color: orangered;
+    color: brown;
+} */
+
+/* #abc1{
+    background-color: skyblue;
+    color: purple;
+} */
+
+/* class */
+/* .abc{
+    background-color: rgb(15, 174, 39);
+} */
+
+/* Descendant Selector denoted by space  div p {} */
+/* div p {
+    color:sandybrown;
+    background-color: brown;
+} */
+
+/* div p span{
+    color: purple;
+    background-color: black;
+} */
+
+/* Child Selector p>a{} */
+/* p>a{ background-color: red;
+} */
+
+/* Descendant Selector p a {} */
+/* .container p {
+    color: blue;
+    font-weight: bold;
+} */
+
+/* firstElement + secondElement { */
+    /* CSS properties */
+/* } */
+/* Adjacent Sibling Selector */
+/* h2 + p {
+    color: green;
+    font-size: 18px;
+    background-color: orange;
+} */
+
+/* General Sibling Selector */
+/* firstElement ~ siblingElement { */
+    /* CSS properties */
+/* } */
+/* h2 ~ p {
+    color: blue;
+    font-style: italic;
+} */
+

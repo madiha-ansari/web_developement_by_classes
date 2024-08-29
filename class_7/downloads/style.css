@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "fronts";
+    src: url(./../downloads_fronts/Roboto-BlackItalic.ttf);
+}
+
+p{
+    font-family: "fronts";
+}
