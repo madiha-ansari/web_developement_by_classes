@@ -1,0 +1,63 @@
+body{
+    background-color: gray;
+}
+
+.black{
+    background-color: black;
+     float: left;
+    height: 200px;
+    width: 200px;
+    /* display: inline-block; */
+}
+.white{
+    background-color:wheat;
+    height: 200px;
+    float: right;
+    /* position: relative; */
+    /* z-index: -1; */
+    width: 200px;
+    /* display: inline-block; */
+}
+
+p{
+    clear: both;
+}
+
+
+
+/* 
+img{
+    position: absolute;
+left: 12px;
+top: 12px;
+} 
+  */
+/* body{
+    margin-top: 40px;
+    background-color: gray;
+} */
+
+/* ul{
+    background-color:palevioletred;
+    padding-top: 60px;
+    position:sticky;
+    top: 0px;
+}
+
+ul>li{
+    padding-left: 50px;
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+    width: 200px;
+    padding-bottom: 60px;
+}
+
+p{
+    font-size: 40px;
+
+    background-color: rebeccapurple;
+} */
+
+
+/* display ya float p p both */

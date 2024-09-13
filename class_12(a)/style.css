@@ -1,0 +1,31 @@
+/* ul > li{ */
+    /* list-style-type: lower-greek;     */
+    /* list-style: outside decimal-leading-zero; */
+    /* ctrl space */
+/* } */
+
+/* margin pading boarder or list ka short hand  */
+
+table{
+    /* border-collapse: collapse; */
+    background-color: black;
+    color: beige;
+width: 70%;
+padding: 7px;
+}
+
+table,th,td{
+    border: 3px groove blue;
+    text-align: center;
+    /* color: black; */
+}
+
+.abc{
+    background-color: aqua;
+}
+
+
+
+td{
+    color: black;
+}

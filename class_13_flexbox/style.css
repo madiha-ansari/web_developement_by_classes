@@ -1,0 +1,29 @@
+.main{
+    background-color: black;
+    color: white;
+    display: flex;
+    /* justify-content: space-evenly; */
+    padding: 5px;
+    height: 300px;
+    /* align-items: flex-start; */
+    justify-content: flex-start;
+}
+
+.one{
+    background-color: aqua;
+}
+
+.two{
+    background-color: yellow;
+}
+.three{
+    background-color: orange;
+}
+
+.four{
+    background-color: rebeccapurple;
+}
+
+.five{
+    background-color: cadetblue;
+}

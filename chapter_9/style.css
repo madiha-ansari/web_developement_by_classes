@@ -1,0 +1,21 @@
+/* p{
+    background-color: aqua;
+    width: 50%;
+    height: 200px;
+    font-family: sans-serif,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-spacing: 15px;
+font-style: italic;
+font-weight: bolder;
+overflow: scroll;
+margin: auto;
+} */
+
+ul{
+    background-color: orange;
+}
+ul>li{
+    display: inline-block;
+    width: 180px;
+    padding-left: 50px;
+    /* background-color: orangered; */
+}

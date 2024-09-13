@@ -1,0 +1,16 @@
+
+
+.accordion-button{
+    color: royalblue !important;
+    background-color: salmon !important;
+}
+
+.color{
+    background-color: seagreen !important;
+    color: black !important;
+
+}
+
+.color:hover{
+    background-color: royalblue !important;
+}

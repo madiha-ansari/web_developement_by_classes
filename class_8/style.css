@@ -1,0 +1,49 @@
+/* .main{
+    background-color: aqua;
+    width: 50%;
+    height: 100px;
+    overflow: scroll; */
+     /* overflow 2 types of scroll &  hidden scrol sa line ai ge to hiden sa hat gae ga }*/ 
+     
+/* .main{ */
+    /* margin: auto; */
+    /* margin: auto; sa ya center ma hota ha margin accept 4 parameter  */
+    /* background-color: rgb(17, 136, 136);
+    width: 50%;
+    border-width: 40px;
+    color: red;
+    border: 10px groove greenyellow; */
+    /* border-width accept 3 parameter */
+    /* padding: 40px;
+} */
+
+/* ul > li{
+    ul la child ha ya 
+} */
+
+/* ul > li{
+     display: inline-block;  */
+      /* background-color: red;  */
+     /* width: 200px; */
+     /* visibility: hidden; */
+    /* what is d/b display inline & block display ki properties height wight ko ignore karti ha */
+/* } */
+
+
+/* #hidden{
+    visibility: hidden;
+} */
+
+/* note hm 2 tarha sa naf bar bana sakta ha ik ul ka ander li sa diplay inline block phir width bg color 0r 2 visibility hideen sa  */
+
+.box{
+    width: 50%;
+    margin: auto;
+    background-color: red;
+border-top: 5px solid grey;
+border-bottom: 5px solid grey;
+    /* border: 10px0px 10px0px groove black; */
+    /* border-radius: 360px; */
+}
+
+/* assignment upwork websites */
